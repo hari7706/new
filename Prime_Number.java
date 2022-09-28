@@ -6,7 +6,7 @@ class Prime_Number{
   
 public static void main(String[] args)
 {
-  System.out.println("Start Proceedings");
+  System.out.println("Start Proceedingss");
 Scanner scn = new Scanner(System.in);
 int t = scn.nextInt();
 System.out.println("Enter Number to start:");
